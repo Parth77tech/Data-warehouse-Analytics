@@ -45,5 +45,5 @@ This project involves:
 
 ## 🌟 About Me
 
-Hi there! I'm **Parth**. I’m an Analytics professional and passionate to optimally leverage data to unravel insights for Business & Healthcare
+Hi there! I'm **Parth**. I’m an Analytics professional and passionate to optimally leverage power of data to unravel insights for Business & Healthcare
 
